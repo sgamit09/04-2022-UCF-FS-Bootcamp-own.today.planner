@@ -27,9 +27,9 @@ To begin workday planner, the current date is first shown. Next you will be able
 * Bootstrap 5
 * Google Chrome
 
-## Link to Password Generator
+## Link to WorkDay Planner
 
- https://sgamit09.github.io/password.generator/
+ https://sgamit09.github.io/own.today.planner/
  
 ## Authors
 
